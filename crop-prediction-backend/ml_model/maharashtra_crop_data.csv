@@ -1,0 +1,71 @@
+region,soil_type,nitrogen,phosphorus,potassium,ph,temperature,humidity,rainfall,crop,suitability
+Mumbai,Coastal Alluvial,80,35,22,6.2,28,82,2200,Rice,85
+Mumbai,Coastal Alluvial,75,32,20,6.5,29,80,2100,Coconut,90
+Mumbai,Lateritic,65,30,18,5.8,30,78,2150,Mango,87
+Mumbai,Coastal Alluvial,78,32,20,6.3,29,81,2150,Banana,82
+Mumbai,Coastal Alluvial,76,33,21,6.4,28,82,2180,Vegetables,80
+Mumbai,Coastal Alluvial,79,34,22,6.2,28,83,2190,Okra,79
+Mumbai,Lateritic,66,31,19,5.9,30,79,2130,Vegetables,78
+Pune,Black,75,42,38,7.6,25,60,700,Sugarcane,82
+Pune,Black,70,40,35,7.8,26,58,650,Jowar,88
+Pune,Red Loamy,65,38,30,7.2,27,55,630,Wheat,75
+Pune,Black,72,41,36,7.7,26,59,680,Maize,80
+Pune,Red Loamy,68,39,32,7.3,27,56,640,Onion,84
+Pune,Black,73,42,37,7.7,26,58,670,Green Gram,81
+Pune,Red Loamy,67,38,31,7.2,27,57,645,Potato,82
+Nagpur,Black Cotton,90,60,45,8.1,31,45,950,Cotton,95
+Nagpur,Black Cotton,85,55,42,8.0,30,47,900,Soybean,90
+Nagpur,Medium Black,80,50,40,7.8,32,42,920,Orange,87
+Nagpur,Black Cotton,88,58,44,8.0,31,46,930,Tur,88
+Nagpur,Medium Black,82,52,41,7.9,30,44,910,Chilli,83
+Nagpur,Black Cotton,87,57,43,8.0,31,46,940,Black Gram,85
+Nagpur,Medium Black,81,51,40,7.8,32,43,915,Brinjal,80
+Nashik,Red Loamy,72,45,35,6.8,24,55,800,Onion,92
+Nashik,Medium Black,68,42,32,7.0,25,52,820,Grapes,94
+Nashik,Black,65,40,30,7.2,26,50,790,Pomegranate,88
+Nashik,Red Loamy,70,43,33,6.9,25,53,810,Tomato,86
+Nashik,Medium Black,69,41,31,7.1,25,51,800,Chilli,85
+Nashik,Red Loamy,71,44,34,6.8,24,54,805,Garlic,89
+Nashik,Medium Black,70,42,32,7.0,25,52,815,Cabbage,83
+Aurangabad,Black,80,45,40,8.0,29,48,650,Cotton,86
+Aurangabad,Black,75,42,38,7.8,30,45,630,Jowar,90
+Aurangabad,Medium Black,70,40,35,7.5,28,46,640,Bajra,85
+Aurangabad,Black,77,44,39,7.9,29,47,645,Wheat,82
+Aurangabad,Medium Black,72,41,36,7.6,29,45,635,Maize,83
+Aurangabad,Black,76,43,38,7.8,29,46,635,Safflower,80
+Aurangabad,Medium Black,71,40,35,7.5,30,45,630,Green Gram,81
+Solapur,Black,78,52,40,8.2,30,42,550,Jowar,92
+Solapur,Black,75,50,38,8.0,31,40,530,Pulses,87
+Solapur,Medium Black,72,48,35,7.8,29,44,560,Sugarcane,80
+Solapur,Black,76,51,39,8.1,30,41,540,Bajra,88
+Solapur,Black,77,52,40,8.0,30,41,535,Mustard,82
+Solapur,Medium Black,74,49,36,7.9,29,43,555,Wheat,79
+Solapur,Medium Black,73,48,35,7.7,31,42,550,Black Gram,77
+Amravati,Black Cotton,85,58,45,8.0,31,44,850,Cotton,94
+Amravati,Black Cotton,80,55,42,7.8,30,45,820,Soybean,89
+Amravati,Medium Black,75,52,40,7.6,32,42,830,Oranges,82
+Amravati,Black Cotton,82,56,43,7.9,31,44,840,Tur,90
+Amravati,Black Cotton,83,57,44,7.9,31,44,845,Sunflower,88
+Amravati,Medium Black,77,53,41,7.7,30,43,835,Groundnut,80
+Amravati,Medium Black,76,52,40,7.5,32,41,825,Sesame,79
+Kolhapur,Black,82,45,38,7.2,26,70,1200,Sugarcane,95
+Kolhapur,Red Loamy,78,42,35,7.0,25,72,1220,Rice,90
+Kolhapur,Lateritic,75,40,32,6.8,27,68,1180,Groundnut,85
+Kolhapur,Black,80,44,37,7.1,26,71,1210,Vegetables,88
+Kolhapur,Black,81,45,38,7.2,26,70,1205,Ginger,86
+Kolhapur,Lateritic,76,41,33,6.9,26,69,1190,Cashew,79
+Kolhapur,Red Loamy,77,42,36,7.0,27,71,1215,Ladies Finger,81
+Sangli,Black,80,48,40,7.8,28,55,650,Grapes,90
+Sangli,Black,75,45,38,7.6,27,57,670,Sugarcane,88
+Sangli,Medium Black,72,42,35,7.5,29,53,630,Pomegranate,85
+Sangli,Black,78,47,39,7.7,28,56,660,Turmeric,84
+Sangli,Medium Black,74,43,36,7.4,29,54,640,Jowar,82
+Sangli,Black,77,46,39,7.6,28,55,665,Sunflower,80
+Sangli,Medium Black,73,42,35,7.4,27,54,650,Green Chilli,78
+Satara,Black,75,42,38,7.5,25,60,750,Sugarcane,86
+Satara,Red Loamy,70,40,35,7.2,26,58,730,Jowar,89
+Satara,Medium Black,65,38,32,7.0,24,62,760,Rice,80
+Satara,Black,73,41,36,7.4,25,61,745,Wheat,82
+Satara,Red Loamy,71,39,34,7.1,25,59,740,Vegetables,77
+Satara,Black,74,42,37,7.5,25,60,745,Mustard,78
+Satara,Medium Black,66,38,33,7.0,26,61,750,Brinjal,75
